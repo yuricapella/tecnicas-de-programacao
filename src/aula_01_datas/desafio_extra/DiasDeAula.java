@@ -33,6 +33,11 @@ public class DiasDeAula {
             dia = entrada.nextInt();
 
             dataInicial = LocalDate.of(ano,mes,dia);
+
+            if (!isDiaValido(dataInicial, diasSemana)) {
+                System.out.println("Erro: A data inicial não é uma segunda, quarta ou sexta-feira.");
+                return;
+            }
         }catch (DateTimeException e){
             System.out.println("Erro: Data inválida. Verifique o dia, mês e ano.");
         }catch (Exception e) {
