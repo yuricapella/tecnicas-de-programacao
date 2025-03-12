@@ -1,0 +1,10 @@
+Desafio: Validação de Maioridade 🎓
+📌 Enunciado:
+Desenvolva um programa em Java que receba a data de nascimento de uma pessoa como entrada
+E determine se ela é maior de idade (18 anos ou mais).
+Utilize a classe Period do pacote java.time para calcular a idade com base na data atual.
+
+🔹 Requisitos:
+1️⃣ O programa deve solicitar ao usuário que insira a data de nascimento. Serão 3 entradas para compor a data. Começando pelo dia, mês e ano de nascimento.
+2️⃣ Deve calcular a idade e verificar se a pessoa tem 18 anos ou mais.
+3️⃣ Exibir uma mensagem informando se a pessoa é maior ou menor de idade.

@@ -1,0 +1,7 @@
+Desafio Extra 🚀
+📌 Problema:
+Um curso começa em uma data específica e possui 9 aulas, acontecendo às segundas, quartas e sextas-feiras.
+O desafio é criar um programa em Java que calcule as datas de cada uma das aulas automaticamente.
+
+Como entrada o programa receberá apenas a data da primeira aula.
+Caso a data da primeira aula não seja um dia válido de aula o programa de ve retornar um erro e interromper o processamento.
