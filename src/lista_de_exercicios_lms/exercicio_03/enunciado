@@ -1,0 +1,10 @@
+Enunciado
+Sexta-feira 13
+Fred é um rapaz muito supersticioso que não sai de casa nos dias que são sexta-feira treze,
+Considerado popularmente como um dia de má sorte.
+Ele pretende se planejar marcando no calendário os dias em que deve ficar em casa.
+Faça um programa que ajude Fred a descobrir se uma determinada data ocorre na sexta-feira treze.
+Para isso, crie uma classe que possua o método ehSexta13. O método deverá receber um par de inteiros,
+para corresponder ao mês e ano respectivamente, e retornar true,
+se a combinação formar uma data em que ocorre a junção do dia 13 com a sexta-feira,
+e false caso contrário. Se o mês ou ano forem inválidos, retornar falso também.
