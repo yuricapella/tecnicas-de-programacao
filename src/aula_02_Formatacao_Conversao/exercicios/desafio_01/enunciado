@@ -1,0 +1,9 @@
+Desafio: Validando Datas 🎓
+📌 Enunciado
+Crie um programa que receba uma data de nascimento como String e converta para LocalDate.
+O programa deve validar se a data inserida é válida e, caso seja inválida, solicitar uma nova entrada.
+
+🔹 Requisitos
+✅ O usuário insere a data no formato "dd/MM/yyyy".
+✅ Se a data for inválida, o programa exibe uma mensagem de erro.
+✅ O programa continua pedindo a data até que uma válida seja informada.
