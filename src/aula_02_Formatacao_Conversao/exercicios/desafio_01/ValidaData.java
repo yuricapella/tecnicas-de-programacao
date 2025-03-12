@@ -20,7 +20,7 @@ public class ValidaData {
         boolean continuar = true;
         while (continuar) {
             try {
-                System.out.println("Digite sua data de nascimento: (Exemplo: dd/MM/yyyy)");
+                System.out.println("Digite sua data de nascimento: (Exemplo: 01/01/1999)");
                 dataNascimentoString = entrada.nextLine();
                 dataNascimento = LocalDate.parse(dataNascimentoString,formatter);
                 continuar = false;
