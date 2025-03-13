@@ -1,7 +1,7 @@
 # 📚 Técnicas de Programação
 
 ## 🎯 Objetivo
-Este curso tem como foco ensinar diversas técnicas de programação em Java, incluindo manipulação de datas, programação funcional, e programação paralela e assíncrona.
+Este modulo tem como foco ensinar diversas técnicas de programação em Java, incluindo manipulação de datas, programação funcional, e programação paralela e assíncrona.
 
 ## 🏫 Informações Gerais
 - **Turma:** 1322  
