@@ -1,9 +1,0 @@
-Enunciado
-Avançando dias de uma data com java.time
-Uma das muitas coisas boas sobre a nova API de data e hora do Java
-É que ela define os principais conceitos de data e hora, por exemplo instantes,
-duração, datas, horas, fusos horários e períodos.
-
-Sendo assim, escreva o código do método avancaDias para obter
-A data correspondente à data original após a quantidade de dias passados no parâmetro,
-conforme o modelo da classe de exemplo.
