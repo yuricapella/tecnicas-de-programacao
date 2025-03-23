@@ -1,0 +1,7 @@
+Enunciado
+Convertendo datas
+Utilizando a API de datas do pacote java.time,
+faça um método chamado converteData para receber uma String no formato 'dd/MM/yyyy',
+convertê-la para LocalDate e retornar a data original acrescida de três dias.
+Dica: Utilize a classe DateTimeFormatter para formatar a data
+e o método plusDays de LocalDate para adicionar dias à data original.
