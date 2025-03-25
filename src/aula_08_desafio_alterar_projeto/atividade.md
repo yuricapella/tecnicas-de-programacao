@@ -32,8 +32,9 @@ Este documento detalha as alterações realizadas nas tarefas 2, 3 e 4 do projet
 - Adicionado o novo status **"Bloqueado"** na enum `Status` da classe `Task`.
 
 ### 🔹 Validação de Status no `AbstractTaskController`
-- No método `createTask`, chamadas adicionadas para validação de status (implementadas na classe filha).
-- A classe `TaskControllerImpl` agora realiza as validações de status.
+- O método `createTask` chama funções para validação de status, implementadas na classe filha.
+- A classe `TaskControllerImpl` já realiza validações de status, porém, o novo status "Bloqueado" ainda não possui validação implementada. Caso seja necessário, futuras validações podem ser adicionadas nessa estrutura.
+
 
 ### 🔹 Atualização na Classe `FilterTasksByStatusCommand`
 - Adicionada nova opção de filtro:
